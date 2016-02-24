@@ -1,0 +1,15 @@
+{
+  "name": "rgs-module-a",
+  "version": "0.0.1",
+  "description": "Module a testing deps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "keywords": [
+    "module",
+    "deps"
+  ],
+  "author": "Rubén Guerrero",
+  "license": "ISC"
+}

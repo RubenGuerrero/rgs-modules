@@ -1,0 +1,14 @@
+{
+  "name": "rgs-module-b",
+  "version": "0.0.1",
+  "description": "Module testing 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "author": "Rubén Guerrero",
+  "license": "ISC",
+  "dependencies": {
+    "rgs-module-a": "0.0.1"
+  }
+}
