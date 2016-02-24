@@ -1,6 +1,6 @@
 {
   "name": "rgs-module-a",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Module a testing deps",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,9 @@
     "module",
     "deps"
   ],
+  "repository":{
+    "url": "https://github.com/RubenGuerrero/rgs-modules"
+  },
   "author": "Rubén Guerrero",
   "license": "ISC"
 }

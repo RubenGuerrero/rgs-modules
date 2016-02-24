@@ -8,7 +8,10 @@
   },
   "author": "Rubén Guerrero",
   "license": "ISC",
+  "repository":{
+    "url": "https://github.com/RubenGuerrero/rgs-modules"
+  },
   "dependencies": {
-    "rgs-module-a": "0.0.1"
+    "rgs-module-a": "^0.0.0"
   }
 }
