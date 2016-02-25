@@ -12,6 +12,6 @@
     "url": "https://github.com/RubenGuerrero/rgs-modules"
   },
   "dependencies": {
-    "rgs-module-a": "^0.0.0"
+    "rgs-module-a": "^0.0.x"
   }
 }
