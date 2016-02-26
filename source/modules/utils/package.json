@@ -1,0 +1,8 @@
+{
+  "name": "utils",
+  "version": "0.0.0",
+  "description": "Utils library",
+  "main": "./src/js/utils.js",
+  "scripts": {},
+  "author": "Rubén Guerrero"
+}

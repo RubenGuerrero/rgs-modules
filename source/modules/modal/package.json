@@ -1,0 +1,7 @@
+{
+  "name": "modal",
+  "version": "0.0.0",
+  "description": "Modal",
+  "main": "./src/js/modal.js",
+  "author": "Rubén Guerrero"
+}

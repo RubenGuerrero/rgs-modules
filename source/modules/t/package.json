@@ -1,0 +1,8 @@
+{
+  "name": "t",
+  "version": "0.0.0",
+  "description": "Template library",
+  "main": "./t.js",
+  "scripts": {},
+  "author": "Rubén Guerrero"
+}
