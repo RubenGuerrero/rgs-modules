@@ -1,5 +1,11 @@
-Broserify + Babelify + NPM
+Broserify + Babelify Modules
 ====
 
+Build
+====
 
-Ver package con actions y el archivo Gulpfile
+Build for development:
+```npm run build-dev``` 
+
+Build for production:
+```npm run build-pro```
